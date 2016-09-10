@@ -4,7 +4,7 @@
 
 	<groupId>com.allenru</groupId>
 	<artifactId>xd-regex-module</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.9.0</version>
 	<packaging>jar</packaging>
 
 	<name>xd-regex-module</name>
@@ -145,5 +145,5 @@
 		</repository>
 	</distributionManagement>
 
-	<description></description>
+	<description>A Spring XD processor module that transforms a payload string into a Tuple using a Regular Expression, where each capture group in the regular expression is mapped to a tuple field.</description>
 </project>
